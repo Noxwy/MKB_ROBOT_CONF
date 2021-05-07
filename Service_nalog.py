@@ -15,7 +15,7 @@ import requests
 
 url = 'https://service.nalog.ru/inn.do'# URL Робота
 
-driver = r'C:\Users\Alexey\Desktop\chromedriver.exe'# Путь до драйвера
+driver = 'chromedriver.exe'# Путь до драйвера
 
 ls_inn = []# Массив ИНН
 
