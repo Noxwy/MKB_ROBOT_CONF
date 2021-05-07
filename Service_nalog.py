@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri May  7 22:17:16 2021
-
-@author: Alexey
-"""
-
 
 import pandas as pd
 from selenium import webdriver
