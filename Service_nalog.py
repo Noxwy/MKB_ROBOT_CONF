@@ -4,8 +4,7 @@ import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
-import random
-import requests
+
 
 url = 'https://service.nalog.ru/inn.do'# URL Робота
 
